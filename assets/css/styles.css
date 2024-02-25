@@ -18,12 +18,14 @@ body {
 
 .menu {
     display: flex;
+    height: 100%;
     width: 650px;
     background-color: #FFF;
     border:solid 2px #fff
 }
 
 .menu ul {
+    height: 100%;
     width: 100%;
 }
 
