@@ -1,0 +1,269 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 1720px;
+    width: 100%;
+    background-color: gray;
+}
+
+.principal {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+.menu {
+    display: flex;
+    width: 650px;
+    background-color: #FFF;
+    border:solid 2px #fff
+}
+
+.menu ul {
+    width: 100%;
+}
+
+.maria {
+    display: flex;
+    justify-content: space-between;
+    border: solid 2px #E8EBE4;
+}
+
+.foto_y_estado {
+    display: flex;
+}
+
+.nombre_y_estado {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.maria img {
+    margin: 10px 5px 0 50px;
+    height: 70px;
+    width: 70px;
+    border-radius: 100px;
+    border: solid 2px #e8ebe4;
+}
+
+.iconos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.fa-comment {
+    font-size: 2em;
+    padding: 10px;
+}
+
+.fa-bars {
+    font-size: 2em;
+    padding: 10px;
+}
+
+.boton  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    height: 120px;
+    border: solid 2px #E8EBE4;
+}
+
+.boton button {
+    height: 70px;
+    width: 300px;
+    background-color: #A491D2;
+    color: white;
+    font-size: 1.5em;
+    border: none
+}
+
+.contacto2 {
+    display: flex;
+    padding: 40px;
+    border: solid 2px #E8EBE4;
+}
+
+.estado2 {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.contacto2 img {
+    border-radius:80px;
+    height: 90px;
+    width: 90px;
+    border: solid 2px #e8ebe4;
+}
+
+.contacto3 {
+    display: flex;
+    padding: 40px;
+    border: solid 2px #E8EBE4;
+}
+
+.estado3 {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.contacto3 img {
+    border-radius: 80px;
+    height: 90px;
+    width: 90px;
+    border: solid 2px #e8ebe4;
+}
+
+.contacto4 {
+    display: flex;
+    padding: 40px;
+    border: solid 2px #E8EBE4;
+}
+
+.estado4 {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.contacto4 img {
+    border-radius: 80px;
+    height: 90px;
+    width: 90px;
+    border: solid 2px #e8ebe4;
+}
+
+.contacto5 {
+    display: flex;
+    padding: 40px;
+    border: solid 2px #E8EBE4;
+}
+
+.estado5 {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.contacto5 img {
+    border-radius: 80px;
+    height: 90px;
+    width: 90px;
+    border: solid 2px #e8ebe4;
+}
+
+.contacto6 {
+    display: flex;
+    padding: 40px;
+    border: solid 2px #E8EBE4;
+}
+
+.estado6 {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.contacto6 img {
+    border-radius: 80px;
+    height: 90px;
+    width: 90px;
+    border: solid 2px #e8ebe4;
+}
+
+.contacto7 {
+    display: flex;
+    padding: 40px;
+    border: solid 2px #E8EBE4;
+}
+
+.estado7 {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.contacto7 img {
+    border-radius: 80px;
+    height: 90px;
+    width: 90px;
+    border: solid 2px #e8ebe4;
+}
+
+.contacto8 {
+    display: flex;
+    padding: 40px;
+    border: solid 2px #E8EBE4;
+}
+
+.estado8 {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.contacto8 img {
+    border-radius: 80px;
+    height: 90px;
+    width: 90px;
+    border: solid 2px #e8ebe4;
+}
+
+.contacto9 {
+    display: flex;
+    padding: 40px;
+    border: solid 2px #E8EBE4;
+}
+
+.estado9 {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.contacto9 img {
+    border-radius: 80px;
+    height: 90px;
+    width: 90px;
+    border: solid 2px #e8ebe4;
+}
+
+
+.seccion_principal {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #E8EBE4   ;
+    text-align: center;
+}
+
+.derecha img {
+    height: 500px;
+    width: 500px;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+.seccion_principal p {
+    font-size: 2em;
+}
+
+span {
+    font-weight: bold;
+}
